@@ -10,3 +10,4 @@ Ask Bitner for an API key for LiteLLM. Once you get it, you'll need to connect t
 
 ## Connecting to the endpoint
 
+You'll need to add the base URL (Insert here) to your harness of choice. The base URL is the LiteLLM endpoint. It is an OpenAI-API-Compatible endpoint that should be compatible with virtually any harness or agent you want to use. 

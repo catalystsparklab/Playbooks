@@ -1,5 +1,5 @@
 # Playbooks
-A general playbook containing content for Cyber, Web Dev, and AI development students.
+A playbook library containing content for Cyber, Web Dev, and AI development students.
 
 
 ## What you can do with this
