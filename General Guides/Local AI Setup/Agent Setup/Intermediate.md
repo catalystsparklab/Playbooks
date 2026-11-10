@@ -47,8 +47,6 @@ Look for tool or function calling support in the output, and note the context le
 
 Match the model size to your hardware. As a rough guide, models in the 7B to 9B range fit in about 12-16 GB of RAM, while larger models need substantially more memory or a GPU with enough VRAM. **Quantized** variants reduce memory use at some cost in quality. 
 
-**It is strongly recommended that you use a quantized model. Generally the "best" quantization for most people is Q4.**
-
 **"Quantization" is basically just compressing the model, a lot like a .zip folder. Ollama provides quantized models by default!**
 
 ## Configuring the Provider
